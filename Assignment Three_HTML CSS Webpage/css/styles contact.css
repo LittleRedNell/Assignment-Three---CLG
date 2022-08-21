@@ -1,0 +1,9 @@
+body{background-color: rgb(129, 210, 248);}
+#ImgWomensProfiles {width: 1000px; height: 270px; border-radius: 15px; padding: 7px; border-width: 7px; border-color: #A9A9A9; border-style: groove; }
+h1{color: #e3600fed;font-size: xx-large;font-weight:300px;font-family: Helvetica, sans-serif;font-style:italic}
+p{font-size: 2em;}
+a{color:#e3600fed;font-style: italic;font-weight: bold}
+a:hover{color: #000;}
+h2{color: #e3600fed;font-size: xx-large;font-weight:300px;font-family: Helvetica, sans-serif;font-style:italic}
+#Img2WomenFacesConnectedLines{width: 370px; height: 250px; border-radius: 30px;}
+#ImageBuilding{width: 200px; height: 250px; border-width: 2px; border-color: #070606; border-style: solid; padding: 1px;}
